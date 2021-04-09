@@ -1,0 +1,86 @@
+[
+   {
+      "objectGuid": "9zuEkm9tFxAbWqN7YCGcKG",
+      "objectName": "DSS_SAP_to_SF",
+      "objectType": "DSS",
+      "path": "/Explore/Workspaces/lgodin",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "4C4i388RdQ9frN9MV3dVks",
+            "23jIHaBPfyPdbVk9VoZ1yK"
+         ],
+         "repoInfo": {
+            "repoHandle": "0100HB0I000000000008"
+         }
+      }
+   },
+   {
+      "objectGuid": "4C4i388RdQ9frN9MV3dVks",
+      "objectName": "Sap_TableConnector",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0100HB0B00000000000D"
+         }
+      }
+   },
+   {
+      "objectGuid": "23jIHaBPfyPdbVk9VoZ1yK",
+      "objectName": "SAP_Salesforce",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "SAP Salesforce",
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0100HB0B00000000000A"
+         }
+      }
+   }
+]
